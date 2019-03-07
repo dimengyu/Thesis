@@ -1,0 +1,597 @@
+[
+    {
+        "value": 229424,
+        "name": "Stage 1",
+        "path": "Stage 1",
+        "children": [
+            {
+                "value": 42061,
+                "name": "Age <= 60",
+                "path": "Stage 1/Age <= 60",
+                "children": [
+                    {
+                        "value": 1661,
+                        "name": "Nothing",
+                        "path": "Stage 1/Age <= 60/Nothing"
+                    },
+                    {
+                        "value": 24433,
+                        "name": "Surgery",
+                        "path": "Stage 1/Age <= 60/Surgery"
+                    },
+                    {
+                        "value": 1104,
+                        "name": "Systemictherapy",
+                        "path": "Stage 1/Age <= 60/Systemictherapy"
+                    },
+                    {
+                        "value": 1613,
+                        "name": "Radiation",
+                        "path": "Stage 1/Age <= 60/Radiation"
+                    },
+                    {
+                        "value": 10209,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 1/Age <= 60/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 298,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 1/Age <= 60/Surgery+Radiation"
+                    },
+                    {
+                        "value": 1483,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 1/Age <= 60/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 1260,
+                        "name": "All",
+                        "path": "Stage 1/Age <= 60/All"
+                    }
+                ]
+            },
+            {
+                "value": 123247,
+                "name": "Age 60-75",
+                "path": "Stage 1/Age 60-75",
+                "children": [
+                    {
+                        "value": 6619,
+                        "name": "Nothing",
+                        "path": "Stage 1/Age 60-75/Nothing"
+                    },
+                    {
+                        "value": 66704,
+                        "name": "Surgery",
+                        "path": "Stage 1/Age 60-75/Surgery"
+                    },
+                    {
+                        "value": 4153,
+                        "name": "Systemictherapy",
+                        "path": "Stage 1/Age 60-75/Systemictherapy"
+                    },
+                    {
+                        "value": 11630,
+                        "name": "Radiation",
+                        "path": "Stage 1/Age 60-75/Radiation"
+                    },
+                    {
+                        "value": 23677,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 1/Age 60-75/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 1168,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 1/Age 60-75/Surgery+Radiation"
+                    },
+                    {
+                        "value": 7196,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 1/Age 60-75/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 2100,
+                        "name": "All",
+                        "path": "Stage 1/Age <= 60/All"
+                    }
+                ]
+            },
+            {
+                "value": 64116,
+                "name": "Age >= 76",
+                "path": "Stage 1/Age >= 76",
+                "children": [
+                    {
+                        "value": 6534,
+                        "name": "Nothing",
+                        "path": "Stage 1/Age >= 76/Nothing"
+                    },
+                    {
+                        "value": 27245,
+                        "name": "Surgery",
+                        "path": "Stage 1/Age >= 76/Surgery"
+                    },
+                    {
+                        "value": 4071,
+                        "name": "Systemictherapy",
+                        "path": "Stage 1/Age >= 76/Systemictherapy"
+                    },
+                    {
+                        "value": 12595,
+                        "name": "Radiation",
+                        "path": "Stage 1/Age >= 76/Radiation"
+                    },
+                    {
+                        "value": 6902,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 1/Age >= 76/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 614,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 1/Age >= 76/Surgery+Radiation"
+                    },
+                    {
+                        "value": 5712,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 1/Age >= 76/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 443,
+                        "name": "All",
+                        "path": "Stage 1/Age >= 76/All"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "value": 77293,
+        "name": "Stage 2",
+        "path": "Stage 2",
+        "children": [
+            {
+                "value": 16762,
+                "name": "Age <= 60",
+                "path": "Stage 2/Age <= 60",
+                "children": [
+                    {
+                        "value": 675,
+                        "name": "Nothing",
+                        "path": "Stage 2/Age <= 60/Nothing"
+                    },
+                    {
+                        "value": 2644,
+                        "name": "Surgery",
+                        "path": "Stage 2/Age <= 60/Surgery"
+                    },
+                    {
+                        "value": 846,
+                        "name": "Systemictherapy",
+                        "path": "Stage 2/Age <= 60/Systemictherapy"
+                    },
+                    {
+                        "value": 250,
+                        "name": "Radiation",
+                        "path": "Stage 2/Age <= 60/Radiation"
+                    },
+                    {
+                        "value": 7595,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 2/Age <= 60/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 195,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 2/Age <= 60/Surgery+Radiation"
+                    },
+                    {
+                        "value": 2206,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 2/Age <= 60/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 2351,
+                        "name": "All",
+                        "path": "Stage 2/Age <= 60/All"
+                    }
+                ]
+            },
+            {
+                "value": 40859,
+                "name": "Age 60-75",
+                "path": "Stage 2/Age 60-75",
+                "children": [
+                    {
+                        "value": 2382,
+                        "name": "Nothing",
+                        "path": "Stage 2/Age 60-75/Nothing"
+                    },
+                    {
+                        "value": 7534,
+                        "name": "Surgery",
+                        "path": "Stage 2/Age 60-75/Surgery"
+                    },
+                    {
+                        "value": 2790,
+                        "name": "Systemictherapy",
+                        "path": "Stage 2/Age 60-75/Systemictherapy"
+                    },
+                    {
+                        "value": 1458,
+                        "name": "Radiation",
+                        "path": "Stage 2/Age 60-75/Radiation"
+                    },
+                    {
+                        "value": 15874,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 2/Age 60-75/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 458,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 2/Age 60-75/Surgery+Radiation"
+                    },
+                    {
+                        "value": 7242,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 2/Age 60-75/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 3121,
+                        "name": "All",
+                        "path": "Stage 2/Age <= 60/All"
+                    }
+                ]
+            },
+        {
+                "value": 19672,
+                "name": "Age >= 76",
+                "path": "Stage 2/Age >= 76",
+                "children": [
+                    {
+                        "value": 2376,
+                        "name": "Nothing",
+                        "path": "Stage 2/Age >= 76/Nothing"
+                    },
+                    {
+                        "value": 3995,
+                        "name": "Surgery",
+                        "path": "Stage 2/Age >= 76/Surgery"
+                    },
+                    {
+                        "value": 2283,
+                        "name": "Systemictherapy",
+                        "path": "Stage 2/Age >= 76/Systemictherapy"
+                    },
+                    {
+                        "value": 2119,
+                        "name": "Radiation",
+                        "path": "Stage 2/Age >= 76/Radiation"
+                    },
+                    {
+                        "value": 4124,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 2/Age >= 76/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 278,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 2/Age >= 76/Surgery+Radiation"
+                    },
+                    {
+                        "value": 3972,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 2/Age >= 76/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 525,
+                        "name": "All",
+                        "path": "Stage 2/Age >= 76/All"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "value": 199489,
+        "name": "Stage 3",
+        "path": "Stage 3",
+        "children": [
+            {
+                "value": 49611,
+                "name": "Age <= 60",
+                "path": "Stage 3/Age <= 60",
+                "children": [
+                    {
+                        "value": 3608,
+                        "name": "Nothing",
+                        "path": "Stage 3/Age <= 60/Nothing"
+                    },
+                    {
+                        "value": 1409,
+                        "name": "Surgery",
+                        "path": "Stage 3/Age <= 60/Surgery"
+                    },
+                    {
+                        "value": 8171,
+                        "name": "Systemictherapy",
+                        "path": "Stage 3/Age <= 60/Systemictherapy"
+                    },
+                    {
+                        "value": 1076,
+                        "name": "Radiation",
+                        "path": "Stage 3/Age <= 60/Radiation"
+                    },
+                    {
+                        "value": 4497,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 3/Age <= 60/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 167,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 3/Age <= 60/Surgery+Radiation"
+                    },
+                    {
+                        "value": 25930,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 3/Age <= 60/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 4753,
+                        "name": "All",
+                        "path": "Stage 3/Age <= 60/All"
+                    }
+                ]
+            },
+            {
+                "value": 102055,
+                "name": "Age 60-75",
+                "path": "Stage 3/Age 60-75",
+                "children": [
+                    {
+                        "value": 10379,
+                        "name": "Nothing",
+                        "path": "Stage 3/Age 60-75/Nothing"
+                    },
+                    {
+                        "value": 3608,
+                        "name": "Surgery",
+                        "path": "Stage 3/Age 60-75/Surgery"
+                    },
+                    {
+                        "value": 19615,
+                        "name": "Systemictherapy",
+                        "path": "Stage 3/Age 60-75/Systemictherapy"
+                    },
+                    {
+                        "value": 3567,
+                        "name": "Radiation",
+                        "path": "Stage 3/Age 60-75/Radiation"
+                    },
+                    {
+                        "value": 9067,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 3/Age 60-75/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 345,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 3/Age 60-75/Surgery+Radiation"
+                    },
+                    {
+                        "value": 48991,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 3/Age 60-75/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 6483,
+                        "name": "All",
+                        "path": "Stage 3/Age <= 60/All"
+                    }
+                ]
+            },
+            {
+                "value": 47823,
+                "name": "Age >= 76",
+                "path": "Stage 3/Age >= 76",
+                "children": [
+                    {
+                        "value": 9513,
+                        "name": "Nothing",
+                        "path": "Stage 3/Age >= 76/Nothing"
+                    },
+                    {
+                        "value": 1942,
+                        "name": "Surgery",
+                        "path": "Stage 3/Age >= 76/Surgery"
+                    },
+                    {
+                        "value": 12542,
+                        "name": "Systemictherapy",
+                        "path": "Stage 3/Age >= 76/Systemictherapy"
+                    },
+                    {
+                        "value": 3881,
+                        "name": "Radiation",
+                        "path": "Stage 3/Age >= 76/Radiation"
+                    },
+                    {
+                        "value": 2661,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 3/Age >= 76/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 196,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 3/Age >= 76/Surgery+Radiation"
+                    },
+                    {
+                        "value": 16034,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 3/Age >= 76/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 1054,
+                        "name": "All",
+                        "path": "Stage 3/Age >= 76/All"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "value": 252949,
+        "name": "Stage 4",
+        "path": "Stage 4",
+        "children": [
+            {
+                "value": 64815,
+                "name": "Age <= 60",
+                "path": "Stage 4/Age <= 60",
+                "children": [
+                    {
+                        "value": 10670,
+                        "name": "Nothing",
+                        "path": "Stage 4/Age <= 60/Nothing"
+                    },
+                    {
+                        "value": 513,
+                        "name": "Surgery",
+                        "path": "Stage 4/Age <= 60/Surgery"
+                    },
+                    {
+                        "value": 30119,
+                        "name": "Systemictherapy",
+                        "path": "Stage 4/Age <= 60/Systemictherapy"
+                    },
+                    {
+                        "value": 2950,
+                        "name": "Radiation",
+                        "path": "Stage 4/Age <= 60/Radiation"
+                    },
+                    {
+                        "value": 1436,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 4/Age <= 60/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 182,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 4/Age <= 60/Surgery+Radiation"
+                    },
+                    {
+                        "value": 18066,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 4/Age <= 60/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 879,
+                        "name": "All",
+                        "path": "Stage 4/Age <= 60/All"
+                    }
+                ]
+            },
+            {
+                "value": 123278,
+                "name": "Age 60-75",
+                "path": "Stage 4/Age 60-75",
+                "children": [
+                    {
+                        "value": 26477,
+                        "name": "Nothing",
+                        "path": "Stage 4/Age 60-75/Nothing"
+                    },
+                    {
+                        "value": 1318,
+                        "name": "Surgery",
+                        "path": "Stage 4/Age 60-75/Surgery"
+                    },
+                    {
+                        "value": 62224,
+                        "name": "Systemictherapy",
+                        "path": "Stage 4/Age 60-75/Systemictherapy"
+                    },
+                    {
+                        "value": 5945,
+                        "name": "Radiation",
+                        "path": "Stage 4/Age 60-75/Radiation"
+                    },
+                    {
+                        "value": 2417,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 4/Age 60-75/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 239,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 4/Age 60-75/Surgery+Radiation"
+                    },
+                    {
+                        "value": 23861,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 4/Age 60-75/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 797,
+                        "name": "All",
+                        "path": "Stage 4/Age <= 60/All"
+                    }
+                ]
+            },
+            {
+                "value": 64856,
+                "name": "Age >= 76",
+                "path": "Stage 4/Age >= 76",
+                "children": [
+                    {
+                        "value": 21632,
+                        "name": "Nothing",
+                        "path": "Stage 4/Age >= 76/Nothing"
+                    },
+                    {
+                        "value": 660,
+                        "name": "Surgery",
+                        "path": "Stage 4/Age >= 76/Surgery"
+                    },
+                    {
+                        "value": 32067,
+                        "name": "Systemictherapy",
+                        "path": "Stage 4/Age >= 76/Systemictherapy"
+                    },
+                    {
+                        "value": 3301,
+                        "name": "Radiation",
+                        "path": "Stage 4/Age >= 76/Radiation"
+                    },
+                    {
+                        "value": 771,
+                        "name": "Surgery+Systemictherapy",
+                        "path": "Stage 4/Age >= 76/Surgery+Systemictherapy"
+                    },
+                    {
+                        "value": 56,
+                        "name": "Surgery+Radiation",
+                        "path": "Stage 4/Age >= 76/Surgery+Radiation"
+                    },
+                    {
+                        "value": 6239,
+                        "name": "Systemictherapy+Surgery",
+                        "path": "Stage 4/Age >= 76/Systemictherapy+Surgery"
+                    },
+                    {
+                        "value": 130,
+                        "name": "All",
+                        "path": "Stage 4/Age >= 76/All"
+                    }
+                ]
+            }
+        ]
+    }
+]
