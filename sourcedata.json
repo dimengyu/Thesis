@@ -1,0 +1,134 @@
+[
+    {
+        "value": 129,
+        "name": "Unknown Source"
+    },
+    {
+        "value":  189,
+        "name": "Single Source",
+        "children": [
+            {
+                "value": 21,
+                "name": "Postop Superficial SSI"
+            },
+            {
+                "value": 11,
+                "name": "Postop Deep SSI"
+            },
+            {
+                "value": 97,
+                "name": "Postop Organ Space SSI"
+            },
+            {
+                "value": 37,
+                "name": "Postop Pneumonia"
+            },
+            {
+                "value": 17,
+                "name": "Postop UTI"
+            },
+            {
+                "value": 6,
+                "name": "Postop C Diff"
+            }
+        ]
+    },
+    {
+        "value": 56,
+        "name": "Two Sources",
+        "children": [
+            {
+                "value": 4,
+                "name": "Postop Superficial SSI+Postop Organ_Space SSI"
+            },
+            {
+                "value": 1,
+                "name": "Postop Superficial SSI+Postop Pneumonia"
+            },
+            {
+                "value": 1,
+                "name": "Postop Superficial SSI+Postop UTI"
+            },
+            {
+                "value": 1,
+                "name": "Postop Superficial SSI+Postop C diff"
+            },
+            {
+                "value": 3,
+                "name": "Postop Deep SSI+Postop Organ_Space SSI"
+            },
+            {
+                "value": 1,
+                "name": "Postop Deep SSI+Postop Pneumonia"
+            },
+            {
+                "value": 1,
+                "name": "Postop Deep SSI+Postop UTI"
+            },
+            {
+                "value": 1,
+                "name": "Postop Deep SSI+Postop C diff"
+            },
+            {
+                "value": 26,
+                "name": "Postop Organ_Space SSI+Postop Pneumonia"
+            },
+            {
+                "value": 6,
+                "name": "Postop Organ_Space SSI+Postop UTI"
+            },
+            {
+                "value": 5,
+                "name": "Postop Organ_Space SSI+Postop C diff"
+            },
+            {
+                "value": 5,
+                "name": "Postop Pneumonia+Postop UTI"
+            },
+            {
+                "value": 1,
+                "name": "Postop UTI+Postop C diff"
+            }
+        ]
+    },
+    {
+        "value": 10,
+        "name": "Three Sources",
+        "children": [
+            {
+                "value": 3,
+                "name": "Postop Superficial SSI\nPostop Organ_Space SSI\nPostop Pneumonia"
+            },
+            {
+                "value": 2,
+                "name": "Postop Superficial SSI\nPostop Pneumonia\nPostop UTI"
+            },
+            {
+                "value": 1,
+                "name": "Postop Superficial SSI\nPostop Organ_Space SSI\nPostop UTI"
+            },
+            {
+                "value": 1,
+                "name": "Postop Deep SSI\nPostop Organ_Space SSI\nPostop UTI"
+            },
+            {
+                "value": 1,
+                "name": "Postop Organ_Space SSI\nPostop Pneumonia\nPostop UTI"
+            },
+            {
+                "value": 2,
+                "name": "Postop Organ_Space SSI\nPostop Pneumonia\nPostop C diff"
+            }
+        ]
+    },
+    {
+        "value": 1,
+        "name": "Four Sources",
+        "children": [
+            {
+                "value": 1,
+                "name": "Postop Deep SSI\nPostop Organ_Space SSI\nPostop Pneumonia\nPostop C diff"
+            }
+        ]
+    }
+]
